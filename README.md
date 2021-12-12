@@ -7,5 +7,5 @@ C>>sub/location/sensorA
 C>>hello broker  
 S>>200 hello client
 C>>pub/location/sensorA
-S>>210 ok
-Tư đây client liên tục gửi dữ liệu về cho server.
+S>>210 ok  
+Từ đây client liên tục gửi dữ liệu về cho server.
